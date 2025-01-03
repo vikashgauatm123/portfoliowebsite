@@ -213,7 +213,7 @@ section{
         display: block;
     }
     .main-container .content{
-        width: 80%;
+        width: 80rem;
     }
     .social-links i{
         width: 2.5rem;
@@ -222,8 +222,8 @@ section{
     }
     .main-container .image{
         z-index: -1;
-        width: 50%;
-        height: 60%;
+        width: 50rem;
+        height: 60rem;
     }
 }
 @media (max-width:440px){
